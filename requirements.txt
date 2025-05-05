@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+pandas
+requests
+uvicorn
+fastapi
+urllib3
+jsonschema
+jsonschema-specifications
+pytest
+pytest-cov

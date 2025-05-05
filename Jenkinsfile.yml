@@ -1,0 +1,14 @@
+version: "1"
+
+publication:
+  type: 'ECR'
+
+  stacks:
+    - stack: 'dev'
+      targetRegistry: 'anly-edge-dev/webscrapping'
+
+    - stack: 'stg'
+      targetRegistry: 'anly-edge-dev/webscrapping-marketplace'
+
+    - stack: 'pro'
+      targetRegistry: 'anly-edge-dev/webscrapping-marketplace'

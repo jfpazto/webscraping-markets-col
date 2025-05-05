@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "nombre": "Construcción y Plomería"
+    },
+    {
+        "id": 2,
+        "nombre": "Pisos, Pinturas y Terminaciones"
+    },
+    {
+        "id": 3,
+        "nombre": "Herramientas y Maquinarias"
+    },
+    {
+        "id": 4,
+        "nombre": "Baño, Cocina y Aseo"
+    },
+    {
+        "id": 5,
+        "nombre": "Electrohogar, Tecnología y Climatización"
+    },
+    {
+        "id": 6,
+        "nombre": "Muebles y Organización"
+    },
+    {
+        "id": 7,
+        "nombre": "Decoración, Menaje e Iluminación"
+    },
+    {
+        "id": 8,
+        "nombre": "Aire Libre, Jardín y Mascotas"
+    },
+    {
+        "id": 9,
+        "nombre": "Automóviles y Carcenter"
+    },
+    {
+        "id": 10,
+        "nombre": ""
+    },
+    {
+        "id": 11,
+        "nombre": "Servicios para Baños"
+    },
+    {
+        "id": 12,
+        "nombre": "Servicios para Cocinas"
+    },
+    {
+        "id": 13,
+        "nombre": "Servicios Electrodomésticos"
+    },
+    {
+        "id": 14,
+        "nombre": "Servicios Pisos y Paredes"
+    },
+    {
+        "id": 15,
+        "nombre": "Servicios Puertas y Seguridad"
+    },
+    {
+        "id": 16,
+        "nombre": "Servicios Hogar y Jardín"
+    },
+    {
+        "id": 17,
+        "nombre": "Servicios Proyectos a Medida"
+    },
+    {
+        "id": 18,
+        "nombre": "Servicio de alquiler de herramienta y reparación"
+    },
+    {
+        "id": 19,
+        "nombre": "Tips y consejos"
+    },
+    {
+        "id": 20,
+        "nombre": "Catálogos Digitales"
+    },
+    {
+        "id": 21,
+        "nombre": "Círculo de Especialistas"
+    },
+    {
+        "id": 22,
+        "nombre": "Asistente de compra Menaje"
+    },
+    {
+        "id": 23,
+        "nombre": "Asistente de compra Pisos"
+    },
+    {
+        "id": 24,
+        "nombre": "Especialista Electricista"
+    }
+]
