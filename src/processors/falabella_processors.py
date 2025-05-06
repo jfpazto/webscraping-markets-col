@@ -61,7 +61,6 @@ class FalabellaProccessor:
                     print(f"No se encontró data válida en página {con}")
                     break
                 nuevo = pd.DataFrame(data)
-                print("Status petición:", status)
                 print("Página #:", con)
                 if df_total is None:
                     df_total = nuevo

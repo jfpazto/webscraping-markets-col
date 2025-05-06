@@ -18,7 +18,6 @@ class FalabellaScraper:
                 f"https://www.falabella.com.co/s/browse/v1/listing/co"
                 f"?page={page}&categoryId=cat50868&categoryName=Tecnologia&pgid=10&pid=bbea9a06-99b1-44de-bc6e-d314bca4fad3"
             )
-            print("URL", url)
             response = requests.get(url, headers=self.headers, verify=False)  # nosec
             response.raise_for_status()
             return (response.json(), response.status_code)
@@ -32,7 +31,6 @@ class FalabellaScraper:
                 f"https://www.falabella.com.co/s/browse/v1/listing/co"
                 f"?page={page}&categoryId=cat50623&categoryName=Tecnologia&pgid=10&pid=bbea9a06-99b1-44de-bc6e-d314bca4fad3"
             )
-            print("URL", url)
             response = requests.get(url, headers=self.headers, verify=False)  # nosec
             response.raise_for_status()
             return (response.json(), response.status_code)

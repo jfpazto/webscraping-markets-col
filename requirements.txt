@@ -9,3 +9,4 @@ jsonschema
 jsonschema-specifications
 pytest
 pytest-cov
+boto3

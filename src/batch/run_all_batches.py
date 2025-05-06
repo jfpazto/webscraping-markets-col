@@ -1,5 +1,6 @@
 import sys
 import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from batch.run_falabella import FalabellaBatch
 from batch.run_exito import ExitoBatch
 from batch.run_homecenter import HomeCenterBatch
